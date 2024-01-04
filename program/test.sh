@@ -1,3 +1,4 @@
+# The private key and address of the challenger - Alysia
 # The private key and address of the challenger - Alice.
 # Swap these in when running transactions as the challenger.
 # "private_key": "APrivateKey1zkp9p8bttYsy3EuwiGrb4PXmrtjzZkpGvBCGVCgvpcwVjUV",
