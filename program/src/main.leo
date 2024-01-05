@@ -1,8 +1,9 @@
 import oluwatomi_pieces_v016.leo;
 import multiparty_pvp_utils_v015.leo;
 
+
 // The 'coinflip' program.
-program oluwatomi_wheres_alex_v019.aleo {
+program oluwatomi_prog_name.aleo {
 
     // ix: 1
     record Game {
